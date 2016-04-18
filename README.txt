@@ -44,6 +44,11 @@ F74046056@2016cpp:~/lab4$ nm lab4_A
 000000000040067a T main
 
 
+
+0000000000400624 T _Z7averagePdRd
+0000000000400652 T _Z7averageif
+
+
 Question B:
 
 F74046056@2016cpp:~/lab4$ ./lab4_B
