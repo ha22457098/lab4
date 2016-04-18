@@ -53,5 +53,5 @@ F74046056@2016cpp:~/lab4$ ./lab4_B
 8 8
 
 	Reason:
-		No matter what the type of the pointer is, which always stores the memory address, and in 64-bit system the memory address is 64-bit long, so the size of pointers is always 8 bytes.
+		No matter what the type of pointers is, pointers always store the memory address, and in 64-bit system the memory address is 64-bit long, so the size of pointers is always 8 bytes.
 
