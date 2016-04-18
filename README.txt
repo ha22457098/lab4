@@ -48,6 +48,11 @@ F74046056@2016cpp:~/lab4$ nm lab4_A
 0000000000400624 T _Z7averagePdRd
 0000000000400652 T _Z7averageif
 
+average is function name
+Pd represent double pointer 
+Rd represent double reference
+i  represent int
+f  represent float
 
 Question B:
 
